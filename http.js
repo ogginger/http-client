@@ -1,6 +1,6 @@
 //http.js: Functional Logic.
 
-requirejs([
+define([
   "Functions/xGetHTTP",
   "Functions/xPostHTTP",
   "Functions/xPutHTTP",
